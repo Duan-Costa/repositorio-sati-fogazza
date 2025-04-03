@@ -20,12 +20,11 @@ Sati Fogazzaria é um site moderno e dinâmico desenvolvido para uma fogazzaria.
 ## Imagens do site
 
 ![photo_5147851134612909997_x](https://github.com/user-attachments/assets/d5b229f5-c983-44b0-8b62-c5ea6ada049a)
+![photo_5147851134612910003_x](https://github.com/user-attachments/assets/7d4f07b6-6ade-4d81-9378-1b035e251f38)
 ![photo_5147851134612909998_x](https://github.com/user-attachments/assets/a34cb7f9-82ad-4260-b7bd-9103d49012b6)
 ![photo_5147851134612909999_x](https://github.com/user-attachments/assets/fe092aa8-2bfd-45f4-94e7-f81213145203)
-
-![photo_5147851134612910001_x](https://github.com/user-attachments/assets/2b4f4167-b43c-4ebe-94c8-a8582e9f8f5e)
 ![photo_5147851134612910000_x](https://github.com/user-attachments/assets/0e8716ed-600f-479b-9cef-9311ebd9b782)
-![photo_5147851134612909999_x](https://github.com/user-attachments/assets/fe092aa8-2bfd-45f4-94e7-f81213145203)
+![photo_5147851134612910001_x](https://github.com/user-attachments/assets/2b4f4167-b43c-4ebe-94c8-a8582e9f8f5e)
 
 ## Como rodar o projeto
 1. Clone este repositório:
