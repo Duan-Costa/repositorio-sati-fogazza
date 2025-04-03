@@ -18,7 +18,8 @@ Sati Fogazzaria é um site moderno e dinâmico desenvolvido para uma fogazzaria.
 
 ## Imagens do site
 
-![Imagem 1](images/image1.png)
+![photo_5147851134612909997_x](https://github.com/user-attachments/assets/d5b229f5-c983-44b0-8b62-c5ea6ada049a)
+
 ![Imagem 2](images/image2.png)
 ![Imagem 3](images/image3.png)
 ![Imagem 4](images/image4.png)
